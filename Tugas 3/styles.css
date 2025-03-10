@@ -1,0 +1,20 @@
+        body {
+            background-color: #f0f4f8; /* Warna latar belakang yang lebih lembut */
+        }
+        h1 {
+            color: #343a40; /* Warna judul */
+        }
+        h2 {
+            color: #007bff; /* Warna sub-judul */
+        }
+        .card {
+            margin-bottom: 20px; /* Jarak antar kartu */
+        }
+        .img-fluid {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan pada gambar */
+        }
+        footer {
+            background-color: #ffffff; /* Latar belakang footer */
+            border-top: 2px solid black; /* Garis atas footer */
+            padding: 10px; /* Padding footer */
+        }

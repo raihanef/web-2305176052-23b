@@ -1,0 +1,27 @@
+    .box-green {
+        background-color: rgb(219, 237, 237);
+    }
+
+    .box-green h1 {
+        color: rgb(66, 161, 244);
+    }
+
+    .box-green h5 {
+        color: rgb(226, 158, 158);
+    }
+
+    .box-green p {
+        color: rgb(31, 31, 192);
+    }
+
+    .box-pink h1 {
+        color: rgb(37, 14, 139);
+    }
+
+    .box-pink h5 {
+        color: rgb(32, 28, 23);
+    }
+
+    .box-pink p {
+        color: rgb(112, 97, 77);
+    }
